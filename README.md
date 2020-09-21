@@ -41,6 +41,8 @@ I'm Raman Bhadauria, a Full Software Developer (Java-Angular), currently working
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 
+<img align="right" alt="Code GIF" src="https://github.com/257ramanrb/257ramanrb/blob/master/code.gif?raw=true" width="500" height="320" />
+
 ### Experience:
 - Systems Engineer Specialist at Infosys
 - Technical Content Writer Intern at GeeksForGeeks
@@ -54,8 +56,6 @@ I'm Raman Bhadauria, a Full Software Developer (Java-Angular), currently working
 - 6 star at HackerRank in Problem Solving (DSA)
 
 <br/>
-
-<img align="center" alt="Code GIF" src="https://github.com/257ramanrb/257ramanrb/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <!--
 **257ramanrb/257ramanrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
