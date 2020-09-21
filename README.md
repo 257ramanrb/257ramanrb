@@ -55,6 +55,8 @@ I'm Raman Bhadauria, a Full Software Developer (Java-Angular), currently working
 
 <br/>
 
+<img align="center" alt="Code GIF" src="https://github.com/257ramanrb/257ramanrb/blob/master/code.gif?raw=true" width="500" height="320" />
+
 <!--
 **257ramanrb/257ramanrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
