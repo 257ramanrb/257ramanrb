@@ -44,7 +44,7 @@ I'm <a href="https://www.youtube.com/watch?v=lL_iJQhHQ84&t" target="_blank">Rama
 <img align="right" alt="Code GIF" src="https://github.com/257ramanrb/257ramanrb/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### Experience:
-- Systems Engineer Specialist at Infosys
+- Specialist Programmer at Infosys
 - Technical Content Writer Intern at GeeksForGeeks
 - Java Developer Intern at HCL
 
